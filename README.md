@@ -1,1 +1,1 @@
-# PCurso de programação em Python 60h 
+# Curso de programação em Python 60h 
